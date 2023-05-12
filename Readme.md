@@ -5,7 +5,7 @@ Cloning of codevillage website
 Clone or download this repository and run with a local server of open index.html with your favorite browser
 
 ## Preview
-demo
+https://bucolic-buttercream-030424.netlify.app/
 
 ## Prequisite
 - Your browser version must be recent for a better experience
